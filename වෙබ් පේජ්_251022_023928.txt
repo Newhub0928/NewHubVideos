@@ -1,0 +1,44 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>New Hub Videos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background: #f9f9f9;
+      color: #333;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #2c3e50;
+    }
+    p {
+      font-size: 18px;
+      line-height: 1.6;
+    }
+    .email {
+      font-weight: bold;
+      margin-top: 20px;
+    }
+    .footer {
+      margin-top: 40px;
+      font-size: 14px;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>📺 අලුත් විඩියෝ</h1>
+  <p>අලුතෙන් පැමිනෙන සියලුම විඩියෝ නැරඹීම සඳහා අප හා එක් වන්න...</p>
+  <p class="email">📧 newhubvideos@gmail.com</p>
+  <p>සියලුම දෑ එකම තැනකින් නරඹන්න – <strong>New Hub Videos</strong> වෙත පිවිසෙන්න!</p>
+
+  <div class="footer">© 2025 New Hub Videos</div>
+
+</body>
+</html>
+```
